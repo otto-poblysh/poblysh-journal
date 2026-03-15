@@ -8,13 +8,12 @@ serious. The more useful path is simpler and harder at the same time: reactive
 teams, proactive systems.
 
 That phrase matters now because most teams no longer need to be convinced that
-perception matters. May already brought us to that threshold. Buyers, partners,
-candidates, and investors are reading the company before the formal moment
-arrives. The real pressure starts after that realization. If perception is an
-operating layer, who is actually operating it when the founders are deep in
-hiring, the GTM lead is carrying deals, and the product team is shipping through
-another crowded month of conferences, investor dinners, and partnership
-corridors from London to Paris to Madrid.
+perception matters. Buyers, partners, candidates, and investors are reading the
+company before the formal moment arrives. The real pressure starts after that
+realization. If perception is an operating layer, who is actually operating it
+when the founders are deep in hiring, the GTM lead is carrying deals, and the
+product team is shipping through yet another stretch of travel, meetings, and
+fragmented attention.
 
 This is where the old argument for manual proactivity begins to look thin. It
 assumes the problem is mostly one of discipline. Notice more. Post more. Package
@@ -43,8 +42,8 @@ of seriousness. A company like Figma has often looked unusually well-sequenced
 for the same reason. The signal is not one spectacular moment. It is the steady
 reduction of interpretive friction over time. By contrast, many startups with
 real motion still rely on human recall alone. They wait until a raise, a launch,
-or a founder trip through a high-attention month to explain what the business
-has become. By then, the strongest material is often already stale.
+or some other high-attention moment to explain what the business has become. By
+then, the strongest material is often already stale.
 
 Reactive teams, proactive systems is not a slogan about tooling. It is a
 judgment about where seriousness should live. A mature company does not ask its

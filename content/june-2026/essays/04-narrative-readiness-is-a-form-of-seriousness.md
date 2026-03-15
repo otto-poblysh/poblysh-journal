@@ -1,16 +1,15 @@
 # Narrative Readiness Is a Form of Seriousness
 
 Many teams still treat narrative readiness as a cosmetic concern. Something to
-think about once the launch date is fixed, once the raise is live, once the
-founder trip is booked, once the conference week arrives. That is too late.
+think about once the launch date is fixed, once the raise is live, or once a
+high-stakes conversation is already on the calendar. That is too late.
 Narrative readiness is a form of seriousness.
 
-June makes this especially easy to see because the calendar compresses
-interpretation. Events pile up. Meetings multiply. Capital, media, and
-partnership conversations cross the same corridor. In a month like this, the
-companies that look most prepared are not always the ones doing the most work in
-absolute terms. They are often the ones whose work has already been translated
-enough to meet the moment without panic.
+This becomes especially easy to see when the calendar compresses
+interpretation. Meetings multiply. Capital, media, and partnership
+conversations begin to overlap. The companies that look most prepared are not
+always the ones doing the most work in absolute terms. They are often the ones
+whose work has already been translated enough to meet the moment without panic.
 
 That distinction matters because pressure exposes narrative weakness faster than
 routine weeks do. A company without readiness arrives at the important moment

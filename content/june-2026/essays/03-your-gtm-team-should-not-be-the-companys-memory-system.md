@@ -5,13 +5,12 @@ its GTM team keeps becoming the place where forgotten meaning gets rebuilt. That
 work rarely appears on an org chart, but it is everywhere. Your GTM team should
 not be the company's memory system.
 
-By June, the reason should feel familiar. April named the cost of private
-traction. May showed that perception forms before the formal moment. June has to
-trace where the burden goes when signals are not preserved early enough. It
-usually goes to the commercial edge of the company. Sales inherits it in buyer
-conversations. Partnerships inherits it in rooms where the company must suddenly
-explain why it matters. Sometimes hiring inherits it too. But GTM feels it most
-reliably, because GTM is where public interpretation gets forced into real time.
+The reason is straightforward: when signals are not preserved early enough, the
+burden moves to the commercial edge of the company. Sales inherits it in buyer
+conversations. Partnerships inherit it in rooms where the company must suddenly
+explain why it matters. Sometimes hiring does too. But GTM feels it most
+reliably, because GTM is where public interpretation gets forced into real
+time.
 
 This is why so many revenue teams sound more exhausted than their pipeline alone
 would justify. They are not only selling. They are reconstructing. They are
@@ -31,9 +30,8 @@ buyer call, investor meeting, or partner conversation to discover what its own
 most meaningful proofs were over the last quarter.
 
 This distinction shows up clearly when companies enter dense attention windows.
-During a June stretch shaped by London Tech Week, South Summit, or VivaTech, the
-teams that move best are rarely the ones improvising their public memory at the
-event table. They are the ones whose internal motion has already been noticed,
+The teams that move best are rarely the ones improvising their public memory in
+the room. They are the ones whose internal motion has already been noticed,
 sorted, and sequenced before the meetings start. That is part of why certain
 companies seem to carry less friction into important conversations. A firm like
 LemFi can feel easier to place when expansion, product seriousness, and market

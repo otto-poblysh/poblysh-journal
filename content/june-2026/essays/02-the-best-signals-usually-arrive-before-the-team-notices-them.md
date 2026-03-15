@@ -23,14 +23,13 @@ on until a larger event forces interpretation. By then the earlier material,
 which could have made the later moment easier to believe, has already cooled. It
 has become memory rather than usable signal.
 
-This is where June's systems argument starts to matter. May showed that markets
-meet a company in fragments. June has to add the harder observation that teams
-also live among fragments and often fail to recognize which ones are becoming
-legible outside the company. The issue is not that founders are blind. It is
-that startup life trains attention toward urgency, not toward weak-signal
-detection. The system rewards shipping, solving, hiring, closing, and surviving.
-It does not automatically reward pausing long enough to ask whether something
-small has just changed the company's public weight.
+This is where the systems argument starts to matter. Teams also live among
+fragments and often fail to recognize which ones are becoming legible outside
+the company. The issue is not that founders are blind. It is that startup life
+trains attention toward urgency, not toward weak-signal detection. The system
+rewards shipping, solving, hiring, closing, and surviving. It does not
+automatically reward pausing long enough to ask whether something small has
+just changed the company's public weight.
 
 Some of the clearest examples of this live in companies that look steady from a
 distance. A business like Yoco can appear to outsiders as if it has simply kept
@@ -44,9 +43,9 @@ remain trapped as internal texture for too long.
 The dangerous assumption is that if a signal is real, someone will eventually
 notice it. Sometimes they do. Often they do not, or they notice it too late to
 let it shape the moment that mattered. That is why timing is not only about when
-to announce. It is also about when to recognize that something has become
-announcable in the first place.
+to announce. It is also about when to recognize that something is becoming
+announceable in the first place.
 
 The best signals usually arrive before the team notices them because they first
-appear disguised as ordinary work. Serious companies build a way to catch that
-disguise before the calendar teaches the lesson more harshly.
+appear disguised as ordinary work. Companies with proactive systems build a way
+to catch that disguise before timing teaches the lesson more harshly.
