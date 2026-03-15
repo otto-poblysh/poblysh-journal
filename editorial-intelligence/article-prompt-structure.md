@@ -23,9 +23,12 @@ Specify which functions the argument should touch:
 - hiring
 - sales
 - fundraising
+- investor readiness
+- LP confidence
 - partnerships
 - product launches
 - category positioning
+- cost of capital
 - regulatory seriousness
 - market credibility
 
@@ -34,8 +37,10 @@ Specify which functions the argument should touch:
 List 2 to 4 startup-native moments the draft can draw from:
 - launch planning
 - investor updates
+- pre-raise months
 - customer proof
 - partnership announcements
+- portfolio reviews
 - hiring conversations
 - product release notes
 - internal wins that never travel

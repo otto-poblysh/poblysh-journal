@@ -7,8 +7,10 @@ The raw material is not the previous publication's subject matter. The raw mater
 - internal wins
 - neglected milestones
 - investor language
+- pre-raise signaling
 - hiring friction
 - partnership signals
+- portfolio reputation dynamics
 - market reactions
 - the hidden labor of making progress legible
 
@@ -35,6 +37,8 @@ Push the idea into:
 - hiring
 - partnerships
 - fundraising
+- LP confidence
+- cost of capital
 - trust
 - category position
 - regulatory seriousness
@@ -43,9 +47,12 @@ Push the idea into:
 
 Choose the most fitting interpretive lens:
 - private traction
+- PR debt
 - visibility as infrastructure
 - legibility bias
 - perception as leverage
+- trust spillover
+- pre-raise credibility
 - reactive teams and proactive systems
 - timing as intelligence
 

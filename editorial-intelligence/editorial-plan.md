@@ -89,12 +89,19 @@ Establish The Poblysh Journal as a recognizable operator publication with a dist
 - **Visibility as Infrastructure:** Treat visibility as a system that converts internal motion into public legibility.
 - **Perception as Company Leverage:** Show how communication reshapes sales, hiring, partnerships, fundraising, and market trust.
 - **Timing and Attention Design:** Build authority around when stories matter, not only what the stories are.
+- **Visibility Debt and Trust Spillovers:** Show how silence compounds as hidden drag while public proof can compound across a company, a portfolio, or an ecosystem.
 
 ### Audience-Building Strategy
 Publish one essay each week, then atomize the strongest line, paradox, and closing residue into social and newsletter formats that function as identity signals rather than teaser copy. Build habit through monthly issues with clear thematic cohesion, so each essay feels like part of a curated conversation instead of a standalone post. Let affinity compound before product explanation; the Journal should make readers want to stay near Poblysh’s way of thinking.
 
 ### Differentiation
 Most startup publications either teach tactics or celebrate visible wins. Poblysh differentiates by interpreting the public meaning of company progress with unusual calm, strategic seriousness, and aesthetic discipline.
+
+It also has room to deepen into four ownable lenses:
+- PR debt as accumulated visibility drag
+- legibility bias as the logic behind media attention
+- trust spillovers as reputation compounding across networks
+- pre-raise signaling as the idea that fundraising starts before the deck
 
 ### Content Mix Ratio
 Target **40% Reading, 35% Mapping, 15% Recovering, 10% Arguing** across the first six months, with Reading and Mapping doing most of the authority-building work.
@@ -222,6 +229,8 @@ Every essay should begin from a visible startup signal and then widen into incen
 - Perception is not downstream of the work; it changes how the work travels.
 - Sales often pays for narrative debt the whole company created.
 - The better answer is not more content, but better noticing.
+- Fundraising starts before the deck becomes visible.
+- One public win can lower friction for the next company in the room.
 
 ## 8. Optional Notes Considered
 - The brief did not include a live Poblysh blog URL, so this planner is grounded in the strategy documents you supplied rather than a sampled article corpus.

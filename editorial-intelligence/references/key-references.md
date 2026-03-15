@@ -19,6 +19,12 @@
 - thoughtful writing on trust, reputation, and perception in markets
 - operator essays about launches, GTM debt, and category formation
 
+## Internal Poblysh source texts
+- `references/signals-reactive-teams-proactive-systems.md` for the system model:
+  Events, Signals, Grounded Signals, Ideas, plus push/pull storytelling logic
+- `references/poblysh-philosophy-deepening.md` for recurring Poblysh lenses:
+  PR debt, legibility bias, portfolio spillovers, and pre-raise visibility
+
 ## Reference filter
 
 Every reference should help Poblysh do at least one of these:
