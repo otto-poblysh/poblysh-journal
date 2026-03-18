@@ -12,6 +12,14 @@ Use this rubric before approving an essay, prompt, or page plan.
 - Does it begin from a real paradox, hidden cost, or friction?
 - Would the opening make an operator curious enough to continue?
 
+## Objection Handling
+
+- Does the piece name a real reason a smart founder or operator would resist
+  investing in visibility or press?
+- Does it treat that resistance as rational before reframing it?
+- Does the draft answer the objection with a believable system or workflow
+  response rather than moral pressure?
+
 ## Operator Relevance
 
 - Are the stakes legible to founders, CMOs, PMMs, GTM leads, or strategic operators?
@@ -26,6 +34,7 @@ Use this rubric before approving an essay, prompt, or page plan.
 
 - Does the essay widen into business consequence rather than staying purely abstract?
 - Does it explain why the thought matters now?
+- Does it make the reader's current operating choice feel newly costly or newly solvable?
 
 ## Residue
 

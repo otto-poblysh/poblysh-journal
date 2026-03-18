@@ -47,6 +47,26 @@ sequence the signals worth making legible.
 - Timing as intelligence
 - Visibility as infrastructure
 
+## Month-Level Objection Focus
+June should not assume the reader needs to be convinced that visibility matters.
+It should assume the reader already knows and still resists because the work
+feels expensive, performative, or poorly matched to startup reality.
+
+Primary objections to carry this month:
+- product and sales already consume the founder's time, so PR feels like a bad
+  trade
+- the company does not have PR skill, agency budget, or journalist access
+
+Secondary objections to surface selectively:
+- most progress feels too small for press
+- self-promotion can trigger impostor syndrome or fraud-feeling
+
+Month-level answer:
+- do not ask the founder to become a full-time narrator
+- use systems to notice, store, and shape company motion
+- pitch selectively when the story has audience consequence
+- let boring but real progress accumulate in the newsroom without overselling it
+
 ## Editorial Rhythm
 The month should open by naming the false choice between reactive silence and
 performative proactivity, then widen into the system logic of signals and event
@@ -78,14 +98,21 @@ turning visibility into theatre.
    Founders are told to choose between reactive silence and constant self-
    narration, but the more useful path is to build systems that notice company
    motion before it goes cold.
-7. Why it belongs in this month
+7. Primary Reader Objection
+   "I already know visibility matters, but I cannot justify pulling time away
+   from product, customers, and revenue to do PR properly."
+8. Poblysh Answer to Make Credible
+   The better move is not recurring founder labor. It is one-time setup,
+   system-led noticing, and selective translation of company motion into public
+   meaning.
+9. Why it belongs in this month
    June's event density makes this argument timely. It gives the quarter a
    decisive operating frame just as startup ecosystems move into a crowded,
    high-interpretation month.
-8. Conversation Link
+10. Conversation Link
    Continues May's claim that perception is an operating layer by asking how
    that layer gets operated without becoming a manual burden.
-9. Example Direction
+11. Example Direction
    Use subtle mentions of African and global startups whose public signals
    compound through disciplined sequencing rather than sheer noise. Think
    quietly of firms like Moniepoint, LemFi, Yoco, Stripe, or Figma as contrast
@@ -108,14 +135,21 @@ turning visibility into theatre.
    Startups often believe they have no story until a large event arrives, but
    many of the strongest trust-building signals emerge earlier in forms the team
    is too busy to interpret in time.
-7. Why it belongs in this month
+7. Primary Reader Objection
+   "Nothing we have done is big enough yet. Journalists only care when the news
+   is obviously large and already legible."
+8. Poblysh Answer to Make Credible
+   The issue is not that small signals never matter. It is that weak signals
+   need interpretation, and the system should store most of them while only
+   pitching the ones with audience relevance.
+9. Why it belongs in this month
    It gives June its systems-level widening logic and links the month directly
    to event-aware timing rather than generic content planning.
-8. Conversation Link
+10. Conversation Link
    Inherits the fragment logic from May's second piece and shifts it inward:
    the question is no longer only how markets read fragments, but how teams fail
    to catch them before the market does.
-9. Example Direction
+11. Example Direction
    Favor understated examples around customer momentum, regulatory seriousness,
    or partnership drift from African operators and global peers. Let the
    examples behave as passing evidence, not namedrop displays.
@@ -138,14 +172,21 @@ turning visibility into theatre.
    When a company lacks systems for preserving and sequencing meaningful motion,
    GTM teams end up carrying narrative reconstruction work that should have been
    done upstream.
-7. Why it belongs in this month
+7. Primary Reader Objection
+   "We cannot afford a PR agency, so this is simply another capability we have
+   to live without for now."
+8. Poblysh Answer to Make Credible
+   The company does not need agency-style retainers before it can become more
+   legible. It needs infrastructure that preserves proof, drafts selectively,
+   and lowers the reconstruction burden on commercial teams.
+9. Why it belongs in this month
    It makes June economically legible and gives the systems argument a clear
    organizational cost, especially in a month when meeting volume and market
    exposure intensify.
-8. Conversation Link
+10. Conversation Link
    Extends May's sales piece by showing that pre-call belief formation is only
    one symptom of a broader company memory failure.
-9. Example Direction
+11. Example Direction
    Use passive mentions of African and global firms where revenue, partnerships,
    or hiring seem to move with less friction because the company's public trace
    already carries memory for the market.
@@ -168,15 +209,22 @@ turning visibility into theatre.
    Many teams think readiness begins once a launch, raise, or event is already
    on the calendar, but serious companies accumulate narrative readiness before
    pressure arrives.
-7. Why it belongs in this month
+7. Primary Reader Objection
+   "I do not want to perform progress or sound like I am overselling unfinished
+   work."
+8. Poblysh Answer to Make Credible
+   Narrative readiness is not theatricality. It is selective seriousness:
+   storing real progress, resisting inflated pitches, and only sharing what has
+   consequence for the audience reading it.
+9. Why it belongs in this month
    It gives the month a durable close suited to June's conference-heavy timing
    windows and prepares the ground for later issues about pre-raise signaling,
    trust spillovers, and ecosystem memory.
-8. Conversation Link
+10. Conversation Link
    Brings the quarter together by answering April's hidden-cost argument and
    May's perception argument with a final systems-level standard for how
    seriousness becomes legible.
-9. Example Direction
+11. Example Direction
    Favor light-touch references to African and global founders or companies that
    seem prepared before public moments crystallize around them. The examples
    should feel like atmospheric confirmation, not heroic profiles.

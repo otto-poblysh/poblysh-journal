@@ -46,6 +46,7 @@ The Poblysh Journal exists to interpret startup motion as public meaning. It arg
 ### House Voice Rules
 **Do**
 - Begin from friction: a hidden cost, paradox, or mistaken assumption.
+- Treat founder resistance as rational before trying to reframe it.
 - Use startup-native language with precision, not jargon inflation.
 - Keep the tone composed, intelligent, and slightly philosophical.
 - Tie every abstract claim to a real operator consequence.
@@ -57,6 +58,7 @@ The Poblysh Journal exists to interpret startup motion as public meaning. It arg
 - Don’t slip into feature marketing, product demos, or soft pitches.
 - Don’t overheat the prose with urgency, hustle language, or swagger.
 - Don’t flatten experienced readers into “founders should post more” advice.
+- Don’t moralize founders for protecting product time, sales time, or dignity.
 - Don’t let frameworks replace judgement.
 - Don’t end with a CTA when a reframe would be stronger.
 
@@ -68,6 +70,7 @@ Our reader sits inside a company that is moving, but often feels that the world 
 - Why do some companies feel larger, sharper, or more trusted than others with similar traction?
 - When does communication become leverage instead of vanity?
 - What is the hidden cost of leaving public meaning to chance?
+- What real reason would a rational founder still have for resisting this work?
 - How can a team stay reality-grounded without becoming narratively invisible?
 
 ### House Metaphors
@@ -90,9 +93,15 @@ Establish The Poblysh Journal as a recognizable operator publication with a dist
 - **Perception as Company Leverage:** Show how communication reshapes sales, hiring, partnerships, fundraising, and market trust.
 - **Timing and Attention Design:** Build authority around when stories matter, not only what the stories are.
 - **Visibility Debt and Trust Spillovers:** Show how silence compounds as hidden drag while public proof can compound across a company, a portfolio, or an ecosystem.
+- **Press as Market Infrastructure:** Treat credible press and public record as part of the ecosystem's due diligence and legibility layer.
 
 ### Audience-Building Strategy
 Publish one essay each week, then atomize the strongest line, paradox, and closing residue into social and newsletter formats that function as identity signals rather than teaser copy. Build habit through monthly issues with clear thematic cohesion, so each essay feels like part of a curated conversation instead of a standalone post. Let affinity compound before product explanation; the Journal should make readers want to stay near Poblysh’s way of thinking.
+
+The Journal should also repeatedly acknowledge why serious founders delay PR and
+visibility work even when they understand the stakes. The stronger Poblysh move
+is not "you should care more." It is "your resistance makes sense, and the
+system is designed to handle the reason behind it."
 
 ### Differentiation
 Most startup publications either teach tactics or celebrate visible wins. Poblysh differentiates by interpreting the public meaning of company progress with unusual calm, strategic seriousness, and aesthetic discipline.
@@ -102,6 +111,12 @@ It also has room to deepen into four ownable lenses:
 - legibility bias as the logic behind media attention
 - trust spillovers as reputation compounding across networks
 - pre-raise signaling as the idea that fundraising starts before the deck
+
+It also has a strong ecosystem-level argument available:
+- local tech press is not merely a channel, but part of the market's public
+  due diligence infrastructure
+- discovery costs shape what gets covered
+- weakening the press weakens ecosystem legibility abroad
 
 ### Content Mix Ratio
 Target **40% Reading, 35% Mapping, 15% Recovering, 10% Arguing** across the first six months, with Reading and Mapping doing most of the authority-building work.
@@ -148,6 +163,12 @@ Why it fits: Selective verdict pieces will give the Journal memorable, ownable p
 - Example topics: “Silence is not neutrality”; “Your GTM team is paying for everyone’s silence”; “You do not have a content problem”.
 - Best lens pairing: **Aesthetic Argument + Language**
 
+### 9) Press Infrastructure Essay (MAPPING / ARGUING)
+Why it fits: Poblysh can make a distinctive argument that local tech press is a
+shared market layer, not a side character in the ecosystem.
+- Example topics: “Mocking the press is a strategic error”; “Who performs public due diligence when the press collapses?”; “Discovery is expensive, and ecosystems pay when nobody funds it”.
+- Best lens pairing: **Language + Systems**
+
 ## 5. Publishing Plan
 
 ### Weekly Structure
@@ -174,20 +195,46 @@ Why it fits: Selective verdict pieces will give the Journal memorable, ownable p
 ## 6. Operational Plan
 
 ### Weekly Production Cycle
-- **Monday:** lock the week’s tension, counter-reading, and operator stakes.
+- **Monday:** lock the week’s tension, primary reader objection, counter-reading, and operator stakes.
 - **Tuesday:** gather examples, company situations, and comparative references.
 - **Wednesday:** draft for argument shape, then revise for rhythm, residue, and quotable lines.
 - **Thursday:** publish the essay and extract one declaration line, one framing question, and one closing residue line for distribution.
 
+### Monthly Objection Planning
+Each monthly issue should deliberately choose **1 to 2 founder objections** from
+the objection map and make them part of the issue architecture, not just the
+drafting layer. Good recurring objections include:
+- no time because product and sales come first
+- no agency budget
+- no PR skill or journalist access
+- fear of sounding salesy, fraudulent, or self-important
+- belief that only funding or very large milestones will get covered
+- fatigue with generic "founders should post more" advice
+
+Each essay should carry one primary objection, acknowledge it early, and make
+the Poblysh answer credible through system behavior:
+- one-time setup instead of recurring founder labor
+- AI-assisted story discovery instead of manual noticing
+- selective pitching instead of oversharing
+- newsroom accumulation even when nothing is pitched
+- founder voice without inflated self-performance
+
 ### Research Protocol
 Every essay should begin from a visible startup signal and then widen into incentives, systems, or timing pressures. Use at least one concrete operator scene — launch planning, fundraising prep, hiring, partnerships, regulatory work, sales friction, or internal comms overload — so the essay never floats above company life. When drawing a larger conclusion, always pressure-test it against a counter-reading instead of reaching for doctrine too quickly.
 
+When the essay touches press, visibility, or narrative readiness, the counter-
+reading should usually be a real founder objection rather than a weak straw man.
+The draft should leave the reader feeling understood before it leaves them
+convinced.
+
 ### Quality Standards Checklist
 - The opening names a real tension instead of a broad topic.
+- The opening or early movement acknowledges a rational reader objection.
 - Thesis appears by sentence 2.
 - The essay uses startup-native vocabulary without sounding like jargon.
 - At least one concrete operator consequence is named.
 - The middle widens into structure, incentive, timing, or legibility logic.
+- The argument answers "I know, but I have my reasons" with a believable system response.
 - Product stays mostly offstage unless the argument explicitly requires it.
 - The piece contains at least one line worth quoting on its own.
 - The ending leaves residue instead of delivering advice or CTA pressure.
@@ -231,6 +278,8 @@ Every essay should begin from a visible startup signal and then widen into incen
 - The better answer is not more content, but better noticing.
 - Fundraising starts before the deck becomes visible.
 - One public win can lower friction for the next company in the room.
+- Mocking the press is a strategic error because the press is part of the market's memory.
+- If discovery gets too expensive, only the already legible companies remain visible.
 
 ## 8. Optional Notes Considered
 - The brief did not include a live Poblysh blog URL, so this planner is grounded in the strategy documents you supplied rather than a sampled article corpus.
