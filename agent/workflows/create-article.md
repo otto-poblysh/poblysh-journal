@@ -23,6 +23,10 @@ Default intelligence path:
 - `CURRENT_PIECE_NUMBER` (optional; recommended when part of a numbered issue)
 - `PREVIOUS_ISSUE_PLAN_PATH` (optional)
 - `PREVIOUS_PIECE_PATHS` (optional; especially earlier pieces from the same month)
+- `DESIRED_EMOTIONAL_EFFECT` (optional; strongly recommended if no current issue plan is supplied)
+- `EMOTIONAL_UNDERTONE` (optional)
+- `BUSINESS_ACTIVATION_GOAL` (optional)
+- `MEMORY_SURFACE` (optional)
 - `KEY_REFERENCES` (optional; max 2 meaningful references)
 - `EDITORIAL_ACTION` (optional; if empty, choose best fit)
 - `STORY_ARC` (optional; if empty, choose best fit from `notes/storytelling-arcs.md`)
@@ -84,6 +88,13 @@ Use them to preserve continuity, not to force recap.
 - extract revision pressure points from `notes/article-revision-checklist.md`
 - extract continuity cues from the current issue plan and any available 
   prior pieces
+- when `CURRENT_ISSUE_PLAN_PATH` is available, extract the current piece's:
+  - primary emotional effect
+  - secondary emotional undertone
+  - business activation goal
+  - memory surface
+- if no current issue plan is available, require or derive those four fields
+  before drafting; they are constraints, not decorative notes
 
 Month-context rule:
 - treat the month as atmosphere, pressure, ritual, or interpretive condition
@@ -121,6 +132,10 @@ Research expectations:
   unless the argument materially depends on them
 - avoid city names as decorative proof of geographic range
 - avoid fabricated facts, quotes, or over-precise claims you cannot support
+- always capture the month and year (or at minimum the year) for every event,
+  announcement, report, or milestone used in the essay; these essays are
+  designed to be evergreen and must never rely on time-relative words like
+  "recently," "just," "this week," or "last month" to anchor a fact
 
 Do not fabricate facts, quotes, or company context.
 
@@ -212,6 +227,12 @@ Before drafting, also prepare:
 - decide whether the key abstraction is important enough to organize the essay;
   if yes, introduce it by the first third of the piece rather than spending it
   late as a clever phrase
+- an emotional brief with:
+  - `PRIMARY EMOTIONAL EFFECT`
+  - `SECONDARY EMOTIONAL UNDERTONE`
+  - `BUSINESS ACTIVATION GOAL`
+  - `MEMORY SURFACE`
+  - `EMOTIONAL FALSE NOTE TO AVOID`
 - 2 to 4 likely quotable lines or statement-page-worthy formulations
 - 3 to 5 title candidates with different balances of clarity and 
   intellectual charge: direct, literary, strategic, and residue-led
@@ -287,6 +308,20 @@ blocks. They are scenes, not citations.
   cost, stay under 25 words, and use Poblysh voice — composed, not 
   promotional; the subtitle builds on the title's hook without restating it
 - keep the prose composed, intelligent, and mobile-readable
+- write toward one dominant emotional effect rather than hoping emotion appears
+  accidentally
+- let the emotional effect arise from scene, business consequence, reader
+  recognition, or exposed cost, not from heightened adjectives or melodrama
+- by the end of the first third, the reader should feel something more precise
+  than "this is smart" — unease, recognition, urgency, wonder, sharpened
+  suspicion, relief, or another named effect from the brief
+- use the middle to intensify, complicate, or redirect that feeling rather than
+  draining it through over-explanation
+- make the business activation goal legible by the end: the reader should feel
+  newly compelled to question a decision, revisit a surface, or raise an issue
+  internally
+- include at least one line, scene, or consequence built to stay in memory
+  after the essay ends; this should be the essay's `MEMORY SURFACE`
 - tie abstraction back to real startup situations
 - use examples as passive, subtle mentions rather than loud evidence blocks
 - do not let a central abstraction do unlimited work; if a term repeats, 
@@ -360,13 +395,14 @@ blocks. They are scenes, not citations.
 
 Role order:
 1. `essay_architect` prepares the brief
-2. `lead_writer` drafts
-3. `reader_perspective_critic` tests hook, pacing, and sustained interest
+2. `lead_writer` drafts against the emotional brief, not just the thesis
+3. `reader_perspective_critic` tests hook, pacing, sustained interest,
+   emotional effect, and memory residue
 4. `developmental_editor` reshapes structure and movement
 5. `style_editor` restores Poblysh tonal discipline
 6. `fact_checker` verifies risky claims, research outputs, and 
    both examples returned by the example researcher
-7. `final_qa` approves release quality
+7. `final_qa` approves release quality, emotional efficacy, and memory pressure
 
 ### 7. Quality gate
 Before finalizing, ensure:
@@ -390,8 +426,21 @@ Before finalizing, ensure:
 - if the subtitle leans on an abstract phrase, the opening anecdote makes that
   abstraction concrete immediately
 - the piece sounds specific to Poblysh
+- the piece's primary emotional effect is visible and earned, not merely named
+- the emotional undertone survives the middle instead of disappearing after the
+  opening
+- the essay is not merely intellectually strong; it creates a felt pressure,
+  recognition, or possibility strong enough to remain in memory
+- the business activation goal is plausible: a CEO, CMO, PMM, GTM lead, or
+  operator could realistically finish the piece wanting to revisit a decision,
+  raise a question, or call for a conversation
+- the memory surface is real: at least one line, image, or consequence is
+  likely to linger after reading
+- the emotional effect comes from business truth, not tonal inflation
 - the middle widens into consequence
 - the ending leaves residue, not a CTA
+- the ending converts the essay's emotional charge into reflective pressure
+  rather than merely summarizing the argument
 - the opening example has been chosen for interpretive fit, not prestige or
   obviousness
 - if the essay invokes the month, quarter, or season, that timing has been
@@ -445,6 +494,10 @@ Before finalizing, ensure:
 - where the essay compares under-documented and better-documented markets, it
   names the asymmetric cost plainly if that asymmetry is central to the piece
 - both examples have been verified by `fact_checker` before release
+- no event, announcement, report, or milestone is anchored with time-relative
+  language such as "recently," "just," "this week," "last month," or similar;
+  every such reference uses an explicit month and year (or at minimum the year)
+  so the essay reads as evergreen regardless of when the reader encounters it
 
 ## Revision pass
 
@@ -487,6 +540,13 @@ Before accepting the draft, run one explicit revision pass:
 - if the draft makes the reader's mistake sound simplistic, rewrite it until
   the reader still feels respected inside the correction
 - sharpen one paragraph from "interesting" to "unforgettable"
+- if the draft feels intellectually strong but emotionally cool, rewrite one
+  opening paragraph, one consequence paragraph, and the closing paragraph so
+  the feeling is earned through stakes rather than announced through tone
+- replace any generic emotional word with the more exact scene, consequence, or
+  reader pressure that would make the feeling unnecessary to name directly
+- if the draft creates a strong feeling in the opening but not in the middle or
+  ending, rethread that pressure until the piece feels emotionally continuous
 - rewrite the return to the opening example so it begins from revealed meaning
   rather than from rebuttal unless rebuttal is structurally necessary
 - ask whether the callback now shows something the opening itself could not have
@@ -501,6 +561,10 @@ Before accepting the draft, run one explicit revision pass:
 - confirm both anecdotes are still doing structural work after 
   revision; if either has been cut or softened into decoration, 
   restore its argumentative function
+- scan for any time-relative anchoring ("recently," "just," "this week," "last
+  month") and replace with explicit month-and-year references; these essays are
+  evergreen and must not depend on publication proximity to make temporal
+  references legible
 
 ## Output rules
 - return one Markdown essay only
