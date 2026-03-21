@@ -21,6 +21,7 @@ Default intelligence path:
 - `WRITER_PERSPECTIVE` (required)
 - `CURRENT_ISSUE_PLAN_PATH` (optional; recommended when drafting from a monthly plan)
 - `CURRENT_PIECE_NUMBER` (optional; recommended when part of a numbered issue)
+- `CURRENT_YEAR_PLAN_PATH` (optional; recommended when a year plan exists)
 - `PREVIOUS_ISSUE_PLAN_PATH` (optional)
 - `PREVIOUS_PIECE_PATHS` (optional; especially earlier pieces from the same month)
 - `DESIRED_EMOTIONAL_EFFECT` (optional; strongly recommended if no current issue plan is supplied)
@@ -66,6 +67,7 @@ Load and use these files from `INTELLIGENCE_FOLDER`:
 Load `references/*.md` only when directly needed.
 
 When available, also load:
+- the current year's annual editorial plan from `CURRENT_YEAR_PLAN_PATH`
 - the current month's `editorial-plan.md`
 - earlier published pieces from the same month
 - the previous month's editorial plan or one or two immediately relevant 
@@ -93,6 +95,15 @@ Use them to preserve continuity, not to force recap.
   - secondary emotional undertone
   - business activation goal
   - memory surface
+- when `CURRENT_YEAR_PLAN_PATH` is available, extract:
+  - the quarter theme and month role
+  - year-level topic repetition constraints
+  - year-level example governance, especially:
+    - African example floor
+    - company repetition budget
+    - sector mix rule
+    - geography mix rule
+    - public-surface mix
 - if no current issue plan is available, require or derive those four fields
   before drafting; they are constraints, not decorative notes
 
@@ -122,6 +133,10 @@ Research expectations:
   exactly over the more prestigious or headline-friendly event
 - prioritize companies, founders, operators, and publications from African 
   countries when relevant and strong
+- every essay must contain at least one African example, company, operator,
+  publication, institution, or public surface; if the opening and contrast
+  examples are both non-African, source another African proof surface before
+  proceeding
 - complement African examples with global examples when contrast improves 
   the thought
 - when useful, deepen the essay through cross-domain pairings: a startup
@@ -154,6 +169,8 @@ Pass the researcher:
 - TONE: essayistic
 - DOMAIN PREFERENCE: drawn from the month's ANCHOR DOMAIN; use the 
   CONTRAST POLE for the contrasting example
+- AFRICAN EXAMPLE FLOOR: at least one African example or proof surface must
+  survive into the draft
 - CLICHÉ BLACKLIST: carry forward the month's blacklist verbatim; 
   add any piece-specific entries below it
 - CONNECTIVE FIGURE CONSTRAINT: if the month's CONNECTIVE FIGURE OR 
@@ -164,6 +181,9 @@ Pass the researcher:
 - THREAD CONSTRAINT: the examples must not resolve the month's THREAD 
   TO LEAVE OPEN; they may approach it, but the essay should leave 
   the thread intact for the next piece or for the reader's own inquiry
+- YEAR REPETITION CONSTRAINT: if the annual plan marks certain companies,
+  sectors, or public-surface classes as overused, do not pull them back in
+  without a clearly different structural role
 
 After receiving Phase 1 results, the researcher runs 3 to 5 sequential 
 follow-up queries, each motivated by a gap or promising thread from the 
@@ -426,6 +446,8 @@ Before finalizing, ensure:
 - if the subtitle leans on an abstract phrase, the opening anecdote makes that
   abstraction concrete immediately
 - the piece sounds specific to Poblysh
+- the piece does not violate year-level topic or example repetition constraints
+  when `CURRENT_YEAR_PLAN_PATH` is available
 - the piece's primary emotional effect is visible and earned, not merely named
 - the emotional undertone survives the middle instead of disappearing after the
   opening
@@ -453,6 +475,8 @@ Before finalizing, ensure:
   and non-recap-heavy
 - the examples lean African when appropriate without becoming forced 
   or tokenistic
+- the essay contains at least one African example, company, operator,
+  publication, institution, or public surface
 - the essay does not rely on explicit month names to carry relevance
 - named events, conferences, and cities appear only when they add 
   interpretive value

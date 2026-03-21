@@ -11,6 +11,7 @@ Your job is to turn one monthly theme into a detailed, publication-ready plan fo
 ## Inputs
 - `MONTH_NAME` (required)
 - `YEAR` (optional)
+- `CURRENT_YEAR_PLAN_PATH` (optional; strongly recommended when a year plan exists)
 - `EDITORIAL_THEME` (optional; if supplied, validate it against the month)
 - `THEME_GOAL` (optional; if omitted, derive it from the chosen theme)
 - `SEASONAL_OR_EVENT_CONTEXT` (optional)
@@ -46,6 +47,10 @@ Load and use:
 17. `agentic-team/agents/reader-perspective-critic.md`
 18. `agentic-team/agents/editor-in-chief.md`
 
+When available, also load:
+- the current year's annual editorial plan from `CURRENT_YEAR_PLAN_PATH`
+- the previous year's annual editorial plan
+
 ## Planning context
 
 Poblysh Journal is a thought-led editorial publication for founders, CMOs, PMMs, and strategic operators who care about visibility, perception, timing, and public meaning.
@@ -58,6 +63,28 @@ The plan should feel:
 - emotionally sequenced rather than emotionally flat
 
 ## Workflow
+
+### 0. Load annual and quarter constraints
+If `CURRENT_YEAR_PLAN_PATH` is available, extract and obey:
+- the year thesis and annual reader transformation goal
+- the relevant quarter theme and this month's role inside that quarter
+- the annual core topic inventory, including underused and overused topics
+- year-level emotional strategy and any emotional register already overused in
+  recent months
+- annual example governance, including:
+  - African example floor
+  - company repetition budget
+  - sector mix rule
+  - geography mix rule
+  - public-surface mix
+  - year cliché blacklist
+  - example ledger constraints
+- monthly planner handoff rules from the annual plan
+
+If no annual plan is available:
+- infer quarter logic from the year and month
+- but note that topic, example, and emotional distribution will be less
+  governed and should be marked as lower-confidence
 
 ### 1. Build the calendar-month context
 Research the target month in the calendar year before locking the theme.
@@ -88,6 +115,7 @@ even if no conference existed.
 ### 2. Interpret or select the theme
 Determine:
 - whether the supplied theme genuinely fits the current month context
+- whether it fits the quarter theme and the year thesis
 - if no theme is supplied, derive one from the month context and Poblysh pillars
 - the central tension
 - why it matters now
@@ -97,6 +125,10 @@ Determine:
 - which Poblysh pillars it best serves
 - how it connects to any prior month context
 - how it continues the publication's ongoing conversation rather than starting fresh
+- which annual core topics this month should advance because they are
+  under-covered, strategically due for revisit, or quarter-relevant
+- which overused topics should be backgrounded this month so the year does not
+  collapse into a few favorite arguments
 
 If a supplied theme does not fit the month's deeper interpretive context, refine
 it.
@@ -156,6 +188,8 @@ Distribution rules:
   the rest of the month
 - emotion must arise from business truth, interpretive pressure, and felt
   stakes, not from melodrama or decorative intensity
+- if the annual plan marks a recent emotional register as overused, bias this
+  month away from repeating it in the same way
 
 ### 4. Choose the essay actions
 Use `notes/essay-types.md` to vary the monthly set without losing coherence.
@@ -229,6 +263,14 @@ For the month overall and for each piece:
 - if the month pairs African and global examples, ask whether the issue should
   surface an asymmetry in documentation, institutional scaffolding, or public
   proof burden rather than treating the examples as equivalent by default
+- every essay must have at least one African example, company, operator,
+  publication, institution, or public surface; this is a floor, not an
+  optional preference
+- if an annual example ledger is available, do not reuse companies, sectors,
+  or example classes in ways that violate the year plan's repetition budget or
+  variety rules
+- prefer month-level example choices that repair year-level imbalance rather
+  than month-level convenience
 
 Reference quality rule:
 - the best examples do not merely show where something happened
@@ -378,6 +420,15 @@ Agent ownership:
 ## Theme
 [theme]
 
+## Annual Alignment
+[paragraph]
+
+## Quarter Theme
+[paragraph]
+
+## Month Role In Quarter
+[paragraph]
+
 ## Goal
 [goal]
 
@@ -397,6 +448,15 @@ Agent ownership:
 - [pillar]
 - [pillar]
 - [pillar]
+
+## Core Topics Advanced This Month
+- [topic]
+- [topic]
+- [topic]
+
+## Topics Intentionally Backgrounded This Month
+- [topic]
+- [topic]
 
 ## Editorial Rhythm
 [paragraph]
@@ -437,6 +497,9 @@ pieces to source examples independently of this constellation.
   what structural difference in proof burden or documentation should be named]
 - **Example Selection Principle:** [one sentence on how examples should be
   chosen this month]
+- **African Example Floor:** [one sentence on how every essay will satisfy it]
+- **Annual Repetition Constraint:** [one sentence on how this month avoids
+  overusing companies, sectors, or example classes already saturated this year]
 
 ## Piece List
 
@@ -446,26 +509,29 @@ For each piece include:
 3. Editorial Pillar
 4. Purpose in the Month
 5. Primary Visual Direction
-6. Primary Emotional Effect
-7. Secondary Emotional Undertone
-8. Business Activation Goal
-9. Memory Surface
-10. Core Tension
-11. Why it belongs in this month
-12. Conversation Link
-13. Example Direction
-14. Example Burden
-15. Preferred Signal Class
-16. Prestige Trap to Avoid
-17. Opening Example Job
-18. Contrast Example Job
-19. Return Reveal
-20. Public Surface Class
-21. Primary Reader Encounter
-22. Scope Note
-23. Why This Month Is Load-Bearing
-24. Durable Core / Seasonal Edge
-25. Hardest Implication
+6. Quarter Role
+7. Core Topics Advanced
+8. Primary Emotional Effect
+9. Secondary Emotional Undertone
+10. Business Activation Goal
+11. Memory Surface
+12. Core Tension
+13. Why it belongs in this month
+14. Conversation Link
+15. Example Direction
+16. Example Burden
+17. Preferred Signal Class
+18. Prestige Trap to Avoid
+19. Opening Example Job
+20. Contrast Example Job
+21. Return Reveal
+22. Public Surface Class
+23. Primary Reader Encounter
+24. African Example Direction
+25. Scope Note
+26. Why This Month Is Load-Bearing
+27. Durable Core / Seasonal Edge
+28. Hardest Implication
 
-## Month-Level Balance Check
+## Month-Level And Year-Level Balance Check
 [brief confirmation]
