@@ -26,13 +26,20 @@ This blueprint translates the visual strategy into repeatable page behavior for 
 - two-column body width
 - stable top and side margins
 
-### 4. Image-only page
+### 4. Full-bleed transition page
 - full or near-full image
-- used for atmosphere, symbolic pause, or emotional reset
+- one short transition line, usually upper left
+- used for atmosphere, symbolic pause, or emotional reset while handing the
+  reader into the next essay page
+- image composition should preserve quiet negative space across roughly the top
+  two-thirds for text
+- true text-free full bleed is reserved for documentary or meaning-bearing
+  visuals such as mobile screenshots, relevant people, or relevant artifacts
 
 ### 5. Bridge page
 - image plus one short line
 - marks a turn in the essay
+- upper-left placement is preferred when the image runs full bleed
 
 ### 6. Pull-quote page
 - one quoted or extracted sentence
@@ -48,24 +55,24 @@ This blueprint translates the visual strategy into repeatable page behavior for 
 2. Phrase
 3. Reading
 4. Reading
-5. Image-only
+5. Full-bleed transition
 6. Bridge
 7. Reading
 8. Reading
 9. Phrase
-10. Image-only
+10. Full-bleed transition
 11. Reading
 12. Reading
 13. Bridge
-14. Image-only
+14. Full-bleed transition
 15. Reading
 16. Phrase
 17. Reading
-18. Image-only
+18. Full-bleed transition
 19. Reading
 20. Pull-quote
 21. Reading
-22. Image-only
+22. Full-bleed transition
 23. Reading
 24. Quiet close
 25. Residue
@@ -73,7 +80,9 @@ This blueprint translates the visual strategy into repeatable page behavior for 
 ## Density rules
 
 - two reading pages in a row is usually enough before a pause
-- use image-only and phrase pages to regulate cognitive load
+- use full-bleed transition and phrase pages to regulate cognitive load
+- reserve pure image-only pages for visuals that already carry documentary or
+  editorial meaning without help from text
 - never make every page "work hard"
 
 ## Layout rules
@@ -81,6 +90,8 @@ This blueprint translates the visual strategy into repeatable page behavior for 
 - let negative space carry meaning
 - keep captions minimal
 - avoid visually noisy overlays
+- keep transition copy short and quiet on full-bleed pages
+- prefer upper-left text placement on full-bleed transition pages
 - keep typography consistent across reading pages
 
 ## Best-fit sequence styles
@@ -104,7 +115,7 @@ Best for:
 - post-announcement atmospheres
 
 Mix:
-- image-only pages
+- full-bleed transition pages
 - sensory pages
 - short reading bursts
 

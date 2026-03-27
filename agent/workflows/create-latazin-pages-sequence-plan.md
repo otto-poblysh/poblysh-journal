@@ -86,7 +86,7 @@ Sequence-level balancing rules:
   - `Light Monochrome`: 8 to 10 pages
   - `Mid Monochrome`: 7 to 9 pages
   - `Dark Monochrome`: 6 to 8 pages
-- For any chosen page count between 20 and 30, keep the three grounds as evenly
+- For any chosen page count between 20 and 32, keep the three grounds as evenly
   distributed as the prose allows.
 - No ground should exceed roughly **40%** of the sequence unless the essay
   clearly demands it.
@@ -106,17 +106,26 @@ the loaded `RAW_PROSE` and `WORKING_TITLE`.
 Follow all steps in that prompt, including:
 
 - diagnosing the piece
-- extracting page-bearing units
-- choosing the right page count, default 25
+- extracting page-bearing units without stripping out argument-bearing material
+- choosing the right page count, with 25 as a default rather than a quota
 - building the sequence logic
 - assigning correct page families
 - adding image directions that conform closely to
   `visual-prompt-guide-ai-image-generate.md`
+- preserving the essay's core claims, evidence, examples, and hinge transitions;
+  never trim important parts merely to force a lower page count
+- extending the sequence upward for longer essays where the platform allows it,
+  usually into the 27 to 32 page range before cutting anything essential
 - ensuring every essay page carries two to three paragraphs so the reading
   experience feels like a genuine essay rather than an Instagram carousel; a
   single-paragraph essay page is only acceptable when it also carries a
   subheading introduction or the paragraph itself is unusually long and
   structurally dense
+- defaulting image-led pauses to **full-bleed transition pages** with a short
+  upper-left line that hands the reader into the next essay page
+- reserving true text-free full-bleed pages for documentary or meaning-bearing
+  visuals, especially mobile screenshots of announcements or interfaces,
+  relevant people, and relevant artifacts
 - applying the background rhythm plan so the sequence visibly balances
   `Light Monochrome`, `Mid Monochrome`, and `Dark Monochrome`
 - explicitly naming the chosen ground inside each page's `Design Notes`
