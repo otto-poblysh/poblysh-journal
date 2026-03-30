@@ -1,0 +1,33 @@
+# The Taxonomy of Proof
+
+*For founders and GTM leads who think they have nothing to say while their systems are already generating trust signals.*
+
+The most persuasive document in the company is often the one nobody outside the company has seen.
+
+A cross-border logistics startup in Africa spends a quarter reducing delivery variance on a difficult corridor. The internal dashboard shows fewer failed handoffs, tighter delivery windows, fewer calls from angry customers, and cleaner exception handling at the edges of the route. Inside the company, everyone understands that something important has changed. Outside the company, almost nothing moves. No investor takes fresh notice. No new enterprise buyer suddenly raises their hand. No partner begins the next call from a higher baseline of confidence. The work was real. The proof stayed trapped in a system the market never entered.
+
+That is where many founders begin from the wrong question. They ask what they should post. The better question is what kind of proof the company is already producing, and which of those proofs deserves a public form.
+
+The false binary has done too much damage. Silence on one side. PR on the other. Either say nothing until there is headline-scale news, or start manufacturing visibility through founder energy, campaign rhythm, and promotional noise. Serious companies usually fail somewhere between those two poles. They are not empty. They are undocumented. Their internal systems are full of evidence that something has become more trustworthy, more disciplined, more mature. What they lack is not activity. It is taxonomy.
+
+A taxonomy of proof is simply a way of distinguishing between the kinds of evidence a company produces and the kinds of public surfaces each kind of evidence belongs on. Uptime is one class of proof. Customer outcome is another. Process discipline is another. Regulatory seriousness is another. Market understanding is another. Founders often flatten all of them into one vague category called communication. That mistake is expensive because different proofs travel through different forms, and the market reads those forms differently.
+
+A company selling into institutional buyers does not need to make every proof loud. It needs to make each important proof legible. A dated changelog can do one job. A customer case study can do another. A transparency report can carry a third. A founder memo on a category problem can do something else entirely. The error is not only failing to publish. The deeper error is assuming one signal surface can do all the work.
+
+This is why the strongest proof often looks unglamorous. A logistics business may say more about its seriousness through a steady archive of delay explanations, route notes, and operating summaries than through a polished brand campaign. A payments company may reveal more through clean documentation and dated product notes than through a founder interview. An identity company may reduce more buyer skepticism with one hard case study and one visible compliance explanation than with months of ambient posting. The market does not only ask whether the company exists. It asks what sort of institution seems to exist behind the product. Taxonomy helps answer that question with the right evidence rather than with borrowed style.
+
+This is one reason infrastructure companies in Africa often face a harsher burden than businesses operating in more over-documented markets. In sectors shadowed by assumptions of informality, the company is rarely being judged on product surfaces alone. It is also being judged on whether its public evidence feels formal enough, repeatable enough, and institutionally calm enough to deserve trust. A company like Kobo360 did not have the luxury of being read only as software. It had to be read as an attempt to bring structure, visibility, and discipline to freight. In that kind of environment, every serious public artifact does more than communicate. It formalizes.
+
+The temptation is to think this only matters when the company has something grand to announce. But the most valuable proofs usually appear before the grand moment. They appear as recurring operating evidence. Fewer missed handoffs. Better on-time performance. Cleaner exception logs. More credible delivery estimates. More exact customer outcomes. Better product documentation. A founder who now describes the category with harder language than six months earlier. None of these looks like news in the theatrical sense. Together they create the public file from which buyers, hires, partners, and investors decide how seriously to begin.
+
+This is also where the contrast with manual PR becomes useful. Manual PR asks the company to create attention events. A taxonomy of proof asks the company to classify the evidence it already has and decide what public form each kind of evidence deserves. One approach depends on bursts of human intensity. The other depends on architectural clarity. One is exhausting because it starts from invention. The other is calmer because it starts from translation.
+
+PR is a snapshot; visibility is a feed.
+
+One is a moment of attention. The other is a layer of infrastructure.
+
+The point is not that every company should start publishing white papers or market reports. It is that every serious company already sits on a mixed inventory of proof and should know which parts of that inventory need public shape. A GTM lead should know which operating signals reduce first-call skepticism. A founder should know which institutional traces turn private improvement into public seriousness. A product team should know which reliability surfaces deserve to remain inside the interface and which ones deserve to leave it.
+
+The hardest implication is that a company can keep improving and still remain commercially under-read simply because it has never sorted its proof into usable classes. In that condition, the market is not refusing to notice progress. It is meeting progress in the only form available to it: silence.
+
+If your data never leaves the dashboard in a form the market can read, your progress is not hidden. It is stranded.
