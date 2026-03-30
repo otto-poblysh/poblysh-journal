@@ -24,6 +24,9 @@
   Events, Signals, Grounded Signals, Ideas, plus push/pull storytelling logic
 - `references/poblysh-philosophy-deepening.md` for recurring Poblysh lenses:
   PR debt, legibility bias, portfolio spillovers, and pre-raise visibility
+- `references/press-infrastructure-discourse.md` for recurring arguments about:
+  local tech press, public due diligence, discovery costs, and ecosystem
+  legibility abroad
 
 ## Reference filter
 

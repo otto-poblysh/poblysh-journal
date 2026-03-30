@@ -11,6 +11,8 @@ The raw material is not the previous publication's subject matter. The raw mater
 - hiring friction
 - partnership signals
 - portfolio reputation dynamics
+- press collapse narratives
+- discovery-cost pressures
 - market reactions
 - the hidden labor of making progress legible
 
@@ -39,6 +41,8 @@ Push the idea into:
 - fundraising
 - LP confidence
 - cost of capital
+- public due diligence
+- ecosystem reputation abroad
 - trust
 - category position
 - regulatory seriousness
@@ -53,6 +57,8 @@ Choose the most fitting interpretive lens:
 - perception as leverage
 - trust spillover
 - pre-raise credibility
+- press as infrastructure
+- discovery cost
 - reactive teams and proactive systems
 - timing as intelligence
 

@@ -2,13 +2,16 @@
 
 ## Purpose
 
-This document defines the visual system for Poblysh Journal's mobile-first latazin essays.
+This document defines the visual system for The Poblysh Journal's mobile-first latazin essays.
 
 The journal should feel like a calm editorial object for serious startup readers, not a shrunk desktop blog, a social carousel, or a SaaS brand deck.
 
+For the editorial role of imagery specifically, see
+`editorial-intelligence/visual-intelligence/image-charter.md`.
+
 ## Core thesis
 
-Poblysh Journal should hold:
+The Poblysh Journal should hold:
 - institutional seriousness
 - mobile intimacy
 
@@ -33,31 +36,41 @@ The resulting feeling is:
 
 ## Color strategy
 
-Stay inside a monochrome editorial spectrum:
-- paper white
-- bone
-- soft ash
-- light slate
-- iron
-- charcoal
-- near-black
-- true black
+Stay inside a restrained editorial spectrum with monochrome as the base:
+- paper white: #FBFBFB
+- bone: #E8E8E8
+- soft ash: #D3D3D3
+- light slate: #A9A9A9
+- iron: #707070
+- charcoal: #4A4A4A
+- near-black: #1A1A1A
+- true black: #000000
+
+use 10% of one or two of these colors per illustration
+- mist blue: #B0CBEC
+- blush paper: #F5DADC
+- warm parchment: #FFF4D9
 
 Use true black sparingly for threshold, divider, and residue pages.
+Use one or two support tones in most illustrations, together occupying roughly
+5-10% of the image, for quiet grounds, bridge pages, object pages, soft window
+light, or subtle atmospheric tint. They should behave like paper temperature,
+not like bright brand accents.
 
 ## Typography strategy
 
 Use:
 - Merriweather for titles, phrase pages, section turns, quiet pull quotes
-- Lato for body text, captions, labels, metadata
+- SF Pro Display for body text, captions, labels, metadata
 
 Merriweather is the voice of reflection and gravity.
-Lato is the voice of readable flow and clarity.
+SF Pro Display is the voice of readable flow and clarity.
 
 ## Page archetypes
 
 ### Cover / Threshold
 - one title
+- subtitle
 - strong negative space
 - sets tone without summarizing
 
@@ -72,8 +85,8 @@ Lato is the voice of readable flow and clarity.
 - no unnecessary experimentation
 
 ### Image-Only Page
-- one atmospheric or symbolic image
-- no explanatory burden
+- one load-bearing symbolic or atmospheric image
+- should hold pressure, contradiction, trace, or residue without summarizing literally
 
 ### Bridge Page
 - one image plus one short line
@@ -86,7 +99,9 @@ Lato is the voice of readable flow and clarity.
 
 ## Image philosophy
 
-Imagery should not behave like literal illustration. It should deepen the emotional weather of the essay.
+Imagery should not behave like literal illustration. It should deepen the
+emotional weather of the essay and make abstract strategic conditions feel
+legible enough to pause over.
 
 Favor:
 - quiet spaces
@@ -110,8 +125,9 @@ Images should generally feel:
 - low-saturation when color appears
 - tactile
 - directional in light
+- lifted and paper-lit rather than shadow-heavy
 - quiet but alert
-- serious without becoming gloomy
+- serious without becoming gloomy or depressing
 
 ## Layout behavior
 
