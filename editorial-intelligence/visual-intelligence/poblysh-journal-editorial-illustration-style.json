@@ -1,0 +1,233 @@
+{
+  "style_definition": {
+    "style_id": "poblysh_journal_editorial_illustration_v1",
+    "style_name": "Poblysh Journal Editorial Illustration",
+    "style_purpose": "A reusable house illustration style for The Poblysh Journal's mobile-first latazin essays, designed to express strategic thought, institutional seriousness, and editorial calm through minimal, symbolic illustration.",
+    "visual_identity": {
+      "core_thesis": "institutional seriousness x mobile intimacy",
+      "resulting_feeling": "quiet authority with editorial pulse",
+      "visual_category": "Light-toned conceptual editorial illustration with a restrained monochrome base and washed accent color",
+      "aesthetic_positioning": [
+        "Editorial rather than commercial",
+        "Corporate-modern rather than startup-playful",
+        "Symbolic rather than literal",
+        "Restrained rather than decorative",
+        "Architectural rather than cartoonish"
+      ]
+    },
+    "constant_style_rules": {
+      "rendering_technique": [
+        "Soft graphite linework",
+        "Controlled tonal shading",
+        "Lifted high-key tonal range",
+        "Open paper-white highlights",
+        "Fine pencil-tooth grain",
+        "Subtle paper grain texture",
+        "Light editorial print-noise",
+        "Minimal spatial depth with diagrammatic clarity",
+        "Clean architectural geometry",
+        "Low-noise composition with tactile surface character"
+      ],
+      "surface_signature": "Refined graphite-paper texture with fine pencil grain, subtle print-like noise, dry tonal softness, lifted paper-lit values, and restrained analog imperfection; tactile and editorial, never glossy or ultra-smooth.",
+      "composition": {
+        "aspect_ratio": "5:8 vertical",
+        "grid_compatibility": "Designed to sit comfortably within a 3-column by 4-row latazin grid",
+        "negative_space": "40-60% calm open area when used for covers, bridge pages, and statement-adjacent image pages",
+        "layout_character": [
+          "Balanced",
+          "Sparse",
+          "Still",
+          "Disciplined",
+          "Typography-friendly"
+        ],
+        "perspective_preferences": [
+          "Single-point perspective",
+          "Balanced architectural perspective",
+          "Frontal still-life framing",
+          "Centered or gently offset compositions"
+        ]
+      },
+      "typography_context": {
+        "display_face": "Merriweather",
+        "supporting_face": "Lato",
+        "usage_note": "Typography should be overlaid in layout rather than rendered inside the image. Preserve negative space for title, supporting line, statement, or short bridge text."
+      },
+      "color_system": {
+        "primary_monochrome": {
+          "paper_white": "#FBFBFB",
+          "bone": "#E8E8E8",
+          "soft_ash": "#D3D3D3",
+          "light_slate": "#A9A9A9",
+          "iron": "#707070",
+          "charcoal": "#4A4A4A",
+          "near_black": "#1A1A1A",
+          "true_black": "#000000"
+        },
+        "accent_colors": {
+          "mist_blue": "#B0CBEC",
+          "blush_paper": "#F5DADC",
+          "warm_parchment": "#FFF4D9"
+        },
+        "accent_usage_rule": "Use one or two accent colors in every illustration, together occupying roughly 5-10% of the image, typically as faint reflections, edge tint, soft atmospheric fields, window light, or subtle material temperature. The support colors should keep the image alive, not disappear.",
+        "default_accent_behavior": "If no accent choice is supplied, default to mist_blue plus warm_parchment, or a single very soft warm_parchment cast when the scene needs more quiet.",
+        "black_usage_rule": "Use true black sparingly for threshold, divider, or residue-like visual intensity."
+      },
+      "mood": [
+        "Calm",
+        "Serious",
+        "Institutional",
+        "Intellectual",
+        "Quiet but alert",
+        "Composed",
+        "Breathable",
+        "Quietly alive",
+        "Slightly unresolved without drama"
+      ],
+      "tonal_balance": [
+        "Bias the image toward paper white, bone, and soft ash as the dominant value field",
+        "Keep shadows present but controlled",
+        "Avoid crushed blacks and low-key gloom",
+        "Preserve air, light, and readable contrast"
+      ],
+      "light_behavior": [
+        "Directional but soft light",
+        "Daylit or softly lit interior light by default",
+        "Lifted exposure with calm highlights",
+        "Controlled shadow fields",
+        "Reflective surfaces handled quietly",
+        "No theatrical spotlighting",
+        "No noir darkness unless explicitly requested"
+      ],
+      "texture_behavior": [
+        "Visible but restrained graphite-like grain",
+        "Fine dry pencil texture integrated into tonal areas",
+        "Subtle paper tooth and print-like grain",
+        "Soft mottled surface rather than smooth digital polish",
+        "No glossy finish",
+        "No airbrushed perfection",
+        "No heavy painterly brushwork"
+      ]
+    },
+    "allowed_subject_families": [
+      "Architectural spaces",
+      "Thresholds and corridors",
+      "Institutional interiors",
+      "Symbolic work objects",
+      "Quiet tables and documents",
+      "Windows, glass, and reflective surfaces",
+      "Editorial still lifes",
+      "Restrained human fragments",
+      "Abstract atmospheric fields",
+      "Conceptual business metaphors rendered spatially"
+    ],
+    "preferred_visual_motifs": [
+      "Doorways",
+      "Windows",
+      "Shelves",
+      "Archives",
+      "Stairs",
+      "Wall planes",
+      "Glass reflections",
+      "Folders and notebooks",
+      "Quiet desks",
+      "Interior thresholds",
+      "Layered rooms",
+      "Signals rendered as subtle paths or traces"
+    ],
+    "human_figure_policy": {
+      "allowed": true,
+      "preferred_treatment": [
+        "Partial figure",
+        "Silhouette",
+        "Profile",
+        "Hands",
+        "Posture",
+        "Walking or seated stillness"
+      ],
+      "avoid": [
+        "Smiling teams",
+        "Expressive cartoon faces",
+        "Hero-founder poses",
+        "Lifestyle energy",
+        "Crowded people scenes"
+      ]
+    },
+      "forbidden_elements": [
+      "Cartoon style",
+      "Playful vector SaaS illustration",
+      "Smiling office team",
+      "Handshake imagery",
+      "Busy workspace clutter",
+      "Laptop hero shots",
+      "Dashboard UI as literal subject",
+      "Brand mascot",
+      "Glossy marketing art",
+      "Exaggerated motion",
+      "Saturated gradients",
+      "Infographic energy",
+        "Visible logos",
+        "Text inside the image",
+        "Ad-creative energy",
+        "Low-key noir darkness",
+        "Depressing shadow-heavy mood",
+        "Ultra-smooth CGI polish",
+        "Noise-free perfection",
+        "Photographic sharpness as the dominant feel"
+      ],
+      "page_role_adaptation": {
+      "cover_threshold": {
+        "composition_bias": "Maximum negative space, minimal subject count, stronger architectural or symbolic calm",
+        "mood_bias": "Most restrained and premium, but still paper-lit and breathable"
+      },
+      "image_only": {
+        "composition_bias": "Atmospheric or symbolic, can be slightly fuller but still uncluttered",
+        "mood_bias": "Breathing room and emotional weather"
+      },
+      "bridge_page": {
+        "composition_bias": "Clear visual hinge with one dominant subject zone and one quiet zone for short text",
+        "mood_bias": "Transitional and slightly more directional"
+      },
+      "detail_study": {
+        "composition_bias": "Tight crop on one object, material, edge, reflection, or gesture",
+        "mood_bias": "Tactile and attentive"
+      },
+      "closing_residue": {
+        "composition_bias": "Extremely sparse, soft tonal field or one quiet symbolic subject",
+        "mood_bias": "Lingering, still, resolved-but-open"
+      }
+    },
+    "variable_inputs": {
+      "subject_or_object": "The main object, scene, figure, or symbolic subject to be illustrated",
+      "conceptual_intent": "The strategic or emotional idea the image should support, such as legibility, timing, hidden progress, trust, threshold, or private movement",
+      "scene_type": "Optional narrowing of setting, such as corridor, lobby, tabletop still life, archive shelf, window, doorway, or abstract tone field",
+      "page_role": "Optional page function such as cover_threshold, image_only, bridge_page, detail_study, or closing_residue",
+      "accent_choice": "Preferred choice of one or two accents from mist_blue, blush_paper, warm_parchment; if omitted, the default accent behavior still applies",
+      "presence_of_human_fragment": "Optional boolean or description indicating whether a restrained human fragment should appear",
+      "extra_notes": "Optional special compositional or symbolic instruction"
+    },
+    "prompt_assembly_template": {
+      "template_base": "Editorial illustration in the Poblysh Journal house style. Subject: {subject_or_object}. Conceptual intent: {conceptual_intent}. Render as a light-toned conceptual editorial illustration with a restrained monochrome base, soft graphite linework, controlled tonal shading, open paper-white highlights, fine pencil-tooth grain, subtle paper grain, light print-like editorial noise, clean architectural geometry, and restrained corporate-modern calm. Surface should feel like refined graphite on paper: dry, tactile, lightly printed, intentionally unpolished, and never glossy or ultra-smooth. Use a 5:8 vertical composition with generous negative space, sparse layout, and typography-friendly stillness. Keep the image lifted, breathable, and quietly alive rather than dark, gloomy, or noir. Mood: calm, serious, intellectual, institutional, quiet but alert. Avoid cartoon energy, startup clichés, clutter, glossy rendering, logos, text in image, dashboard literalism, and ad-like composition.",
+      "conditional_insertions": {
+        "scene_type_present": "Scene type: {scene_type}.",
+        "page_role_present": "Page role: {page_role}.",
+        "accent_choice_present": "Keep roughly 90-95% of the palette within paper white, bone, soft ash, light slate, iron, charcoal, near-black, and black. Use {accent_choice} for roughly 5-10% of the image as faint reflection, window light, edge tint, or soft atmospheric field.",
+        "accent_choice_absent": "Keep roughly 90-95% of the palette within paper white, bone, soft ash, light slate, iron, charcoal, near-black, and black. Add 5-10% washed accent color using a default mix of mist_blue and warm_parchment, or a single warm_parchment cast if the composition needs more restraint.",
+        "human_fragment_present": "If a human presence appears, treat it as a restrained fragment: silhouette, profile, hands, posture, or seated stillness.",
+        "human_fragment_absent": "Do not force a figure into the scene.",
+        "extra_notes_present": "Additional direction: {extra_notes}",
+        "brightness_guardrail": "Favor paper-lit surfaces, open corridors, soft daylight, pale grounds, and readable separation. Do not let the image collapse into heavy charcoal darkness or depressing mood."
+      },
+      "assembly_note": "Omit any conditional sentence when its corresponding input is empty, false, or unspecified."
+    }
+  },
+  "image_request_schema": {
+    "style_id": "poblysh_journal_editorial_illustration_v1",
+    "subject_or_object": "",
+    "conceptual_intent": "",
+    "scene_type": "",
+    "page_role": "",
+    "accent_choice": [],
+    "presence_of_human_fragment": false,
+    "extra_notes": ""
+  }
+}

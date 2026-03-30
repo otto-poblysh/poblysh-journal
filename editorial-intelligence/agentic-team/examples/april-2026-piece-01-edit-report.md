@@ -1,0 +1,24 @@
+# Edit Report Example — April 2026 Piece 01
+
+- Role: Developmental + style edit example
+- Main structural findings:
+  - the opening needed more tension before explanation
+  - the draft needed a clearer paragraph defining readable progress
+  - the objection paragraph needed to admit when narration should still wait
+  - the ending was strong but could land with cleaner residue
+- Main line-level findings:
+  - break longer sentences into stronger mobile pulses
+  - add statement-line anchors
+  - remove defensive hedging around the symbolic framing
+- Required revisions:
+  - retitle for clearer entry
+  - sharpen first two paragraphs
+  - define mechanics of legibility through signals and proof
+  - tighten the liturgical and literary references
+  - preserve the final distinction between private progress and public reading
+- What was preserved:
+  - the core thesis
+  - the serious Poblysh tone
+  - the return frame
+  - the strategic consequence across functions
+- Ready for next stage: Yes, after fact check and final QA
