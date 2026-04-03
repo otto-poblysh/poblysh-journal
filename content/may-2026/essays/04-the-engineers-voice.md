@@ -30,7 +30,9 @@ The objection is easy to understand. Some founders worry that speaking publicly 
 
 That means fewer generic lessons about entrepreneurship and more exact observations about the operating layer. Fewer performative declarations about mission and more evidence that the founder can see the hidden geometry of the category. Fewer efforts to sound like a founder archetype and more willingness to sound like the person in the room who knows where the system bends, leaks, stalls, or lies.
 
-This is also why the engineer's voice matters beyond founder identity. It leaves behind a public file that later sales, hiring, partnership, and investor conversations can inherit. The founder who has named the problem clearly in public is not simply building a personal brand. They are giving the company a sharper authority surface. Future readers do not only encounter a product. They encounter a point of view anchored in reality. The remaining question—and it belongs as much to the organization as to the founder—is who inside the company treats that record as an operational asset rather than a personal one. The engineer's voice can leave the room if no one is maintaining the file it built.
+This is also why the engineer's voice matters beyond founder identity. It leaves behind a public file that later sales, hiring, partnership, and investor conversations can inherit. The founder who has named the problem clearly in public is not simply building a personal brand. They are giving the company a sharper authority surface. Future readers do not only encounter a product. They encounter a point of view anchored in reality.
+
+The remaining question—and it belongs as much to the organization as to the founder—is who inside the company treats that record as an operational asset rather than a personal one. The engineer's voice can leave the room if no one is maintaining the file it built.
 
 Deep expertise is the most durable signal in a noisy market because it does not have to shout to survive. It only has to remain recognizably true each time the market returns to it.
 
