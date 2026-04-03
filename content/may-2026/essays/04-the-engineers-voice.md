@@ -32,6 +32,8 @@ That means fewer generic lessons about entrepreneurship and more exact observati
 
 This is also why the engineer's voice matters beyond founder identity. It leaves behind a public file that later sales, hiring, partnership, and investor conversations can inherit. The founder who has named the problem clearly in public is not simply building a personal brand. They are giving the company a sharper authority surface. Future readers do not only encounter a product. They encounter a point of view anchored in reality.
 
+The remaining question—and it belongs as much to the organization as to the founder—is who inside the company treats that record as an operational asset rather than a personal one. The engineer's voice can leave the room if no one is maintaining the file it built.
+
 Deep expertise is the most durable signal in a noisy market because it does not have to shout to survive. It only has to remain recognizably true each time the market returns to it.
 
 The hardest implication is that some founder silence is not humility at all. It is a misunderstanding of what public authority sounds like. The founder stays quiet because the only public voice they can imagine feels artificial. Once the false voice is removed, the real one becomes easier to hear.
