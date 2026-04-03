@@ -57,11 +57,11 @@ The month starts with a structural dissection of signal types, moves to compare 
 
 ## Anecdote Constellation
 
-**Anchor Domain:** Operations-heavy logistics and supply-chain tech (Kobo360, Lorri, Sendy).  
+**Anchor Domain:** Operations-heavy logistics and supply-chain tech (Kobo360, Lori Systems, Sendy).  
 **Connective Figure or Moment:** The "Status Page" or "Visibility Dashboard" as the ultimate communication metaphor for May.  
 **Contrast Pole:** Pure consumer-marketing teams that rely on influencers and hype cycles.  
 **Month Cliché Blacklist:** "Content is king," "Viral loops," "Hustle culture," "Thought leadership."  
-**Thread to Leave Open:** Once the signal-set is in place, how do we use it to survive the high-stakes September sprint?
+**Thread to Leave Open:** Once the signal-set is in place, who inside the company is responsible for catching the proof, and how does it survive long enough to arrive in the right room before the company has to improvise?
 
 ## Month-Level Example Strategy
 
@@ -74,6 +74,7 @@ The month starts with a structural dissection of signal types, moves to compare 
 - **Example Selection Principle:** Prove that data-backed consistency outperforms personality-led PR.
 - **African Example Floor:** Every essay will use at least one African logistics or infrastructure startup.
 - **Annual Repetition Constraint:** We avoid Moniepoint and Paystack, rotating toward Kobo360, Lori Systems, or Sendy.
+- **Geographic Diversity Note:** The logistics anchor skews toward Nigeria (Kobo360) and Kenya (Lori Systems, Sendy). Where a contrasting or supporting example is needed, rotate toward Francophone Africa (e.g., Côte d'Ivoire or Senegal logistics operators) or East/Southern Africa to honor the annual geography mix rule.
 
 ## Piece List
 
@@ -140,11 +141,11 @@ The month starts with a structural dissection of signal types, moves to compare 
 ### 3. Trust as a Product Specification
 1. **Title:** Trust as a Product Specification
 2. **Essay Type:** Anatomy
-3. **Editorial Pillar:** Visibility as Infrastructure
+3. **Editorial Pillar:** Narrative Precision
 4. **Purpose in the Month:** Integrated communication within the product itself.
 5. **Primary Visual Direction:** Microscope view of a UI/UX element.
 6. **Quarter Role:** Widening the definition of "Communication" to include the product.
-7. **Core Topics Advanced:** Perception as Leverage.
+7. **Core Topics Advanced:** The Legibility Bias.
 8. **Primary Emotional Effect:** Confidence.
 9. **Secondary Emotional Undertone:** Pragmatism.
 10. **Business Activation Goal:** Audit the "Trust Surfaces" inside the product UI (e.g., status logs, delivery estimates).
@@ -169,7 +170,7 @@ The month starts with a structural dissection of signal types, moves to compare 
 
 ### 4. The Engineer’s Voice
 1. **Title:** The Engineer’s Voice
-2. **Essay Type:** Reframe / Verdict
+2. **Essay Type:** Verdict / Reframe
 3. **Editorial Pillar:** Signal Classes (The Taxonomy of Proof)
 4. **Purpose in the Month:** The "Residue" piece; empowering the technical/ops founder to speak.
 5. **Primary Visual Direction:** Negative space, minimalist typography.
@@ -198,4 +199,4 @@ The month starts with a structural dissection of signal types, moves to compare 
 28. **Hardest Implication:** Your silence wasn't due to humility; it was due to a misunderstanding of what authority sounds like.
 
 ## Month-Level And Year-Level Balance Check
-This May 2026 plan perfectly transitions the Q2 narrative from **Pain (April)** to **Pattern (May)**, setting up **Proof (June)**. It adheres to the logistics-sector bias to rotate away from Fintech. It maintains the "Relief" emotional arc by offering architectural solutions to felt communication problems. It protects the Poblysh brand by blacklisting generic advice and enforcing the African Example Floor (Kobo360, Sendy, Lorri).
+This May 2026 plan transitions the Q2 narrative from **Pain (April)** to **Pattern (May)**, setting up **Proof (June)**. It adheres to the logistics-sector bias to rotate away from Fintech. It maintains the "Relief" emotional arc by offering architectural solutions to felt communication problems. It protects the Poblysh brand by blacklisting generic advice and enforcing the African Example Floor (Kobo360, Sendy, Lori Systems). Each of the four dominant pillars is assigned to exactly one piece, with Narrative Precision anchoring Piece 3's product-layer argument and Signal Classes closing through Piece 4's founder-voice reframe. Piece 4's "Private Traction converted to Public Meaning" satisfies the Annual Plan's requirement that Private Traction appear in every quarter, completing its Q2 arc from April's cost diagnosis through May's architectural resolution.
